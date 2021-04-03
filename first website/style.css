@@ -1,0 +1,32 @@
+
+h1{
+    background-color:rgb(202, 168, 73);
+ 
+padding-left: 500px;
+font-style:oblique;
+    outline-width:unset;
+    transition-property:all;
+    letter-spacing: inherit;
+    text-transform: uppercase;
+   
+}
+    p{
+        border: solid;
+        padding-left: 100px;
+        margin-left: 500px;
+        margin-right: 500px;}
+    ul{
+        border: solid;
+        margin-left: 500px;
+        margin-right: 500px;
+    }
+    img{
+        border: solid;
+        margin-left: 375px;
+    }
+    
+    
+    body{
+        background-color:rgb(206, 236, 226);
+        } 
+
